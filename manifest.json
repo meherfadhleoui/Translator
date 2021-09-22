@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Translation Extension  ",
+  "version": "1.0",
+  "description": "Translation ",
+  "icons": {
+    "128": "icons/icon128.png",
+    "48": "icons/icon48.png",
+    "16": "icons/icon16.png"
+  },
+
+  "background": {
+    "scripts": ["eventPage.js"],
+    "persistent": false
+  },
+
+  "permissions": [
+    "storage",
+    "notifications",
+    "contextMenus",
+    "https://translate-app-extension.herokuapp.com/"
+  ]
+}
