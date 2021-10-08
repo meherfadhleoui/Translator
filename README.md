@@ -15,6 +15,7 @@
 
 5- selectionner le dossier 'Translator'
 
-6- votre extension est mainteant prete à etres utilisé 
+6- votre extension est maintenant prête à être utilisé
+
 ![alt text](https://user-images.githubusercontent.com/58942012/136591980-815e8646-5922-40f2-a20e-7bbd2dffc8f0.png)
 
