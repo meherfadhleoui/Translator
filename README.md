@@ -15,5 +15,6 @@
 
 5- selectionner le dossier 'Translator'
 
-![alt text](https://imgur.com/F2imbQi.png)
+6- votre extension est mainteant prete à etres utilisé 
+![trans](https://user-images.githubusercontent.com/58942012/136591980-815e8646-5922-40f2-a20e-7bbd2dffc8f0.png)
 
