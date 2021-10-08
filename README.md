@@ -13,7 +13,7 @@
 
 ![alt text](https://imgur.com/QJulU8D.png)
 
-5- selectionner le dossier 'TranslateSelectedText'
+5- selectionner le dossier 'Translator'
 
 ![alt text](https://imgur.com/F2imbQi.png)
 
